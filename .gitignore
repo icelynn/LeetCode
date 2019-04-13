@@ -1,0 +1,4 @@
+# File name: .gitignore
+
+# Ignore ipch DIR which contains .exe
+.vscode/ipch
